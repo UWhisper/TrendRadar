@@ -2,6 +2,7 @@
 Unity
 UnrealEngine
 UE
+!vue
 Game
 独立游戏
 IndieGame
